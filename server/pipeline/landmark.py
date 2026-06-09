@@ -1,0 +1,1 @@
+# finds the landmarks in the image and returns them as a list of normalized (x, y) coordinates

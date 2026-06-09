@@ -1,0 +1,1 @@
+# maintain a buffer of the last 30 seconds of data, and return the average of the last 30 frames of the video feed

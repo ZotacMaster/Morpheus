@@ -1,0 +1,1 @@
+# computes the velocity of the landmarks by taking the mean of the difference between the current frame and the previous frame
